@@ -1,0 +1,12 @@
+Case - Determination of mean and median of Temperature, Humidity, AQI values in Gandhinagar of past 10 days.
+
+Variables - Temperature, Humidity, AQI
+
+Results - Temperature Mean: 31.1
+	  Temperature Median: 31.0
+	  Humidity Mean: 63
+          Humidity Median: 62.5
+          AQI Mean: 156
+	  AQI Median: 156.5
+
+Conclusion - Gandhinagar has a cool weather and clean air.
